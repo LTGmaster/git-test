@@ -22,7 +22,7 @@ namespace git_test
     {
         public MainWindow()
         {   
-            //Version 2.1
+            //Version 2.1.0.0.0.0.0.0.0
             InitializeComponent();
         }
     }
